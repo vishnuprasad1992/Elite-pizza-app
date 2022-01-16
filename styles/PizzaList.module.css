@@ -1,0 +1,23 @@
+.container{
+    padding: 20px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.desc{
+    font-size: 24px;
+    color: #444;
+    width: 70%;
+}
+.title {
+    color: #d1411e;
+    font-weight: bold;
+  }
+.wrapper{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
